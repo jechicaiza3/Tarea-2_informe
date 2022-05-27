@@ -67,11 +67,10 @@ VOLTAJE (V)  SOBRE  RESISTENCIA (I)
 ![image](https://user-images.githubusercontent.com/84757114/170696827-8db165b3-3d21-4e6b-be71-a1da900b1070.png)
 
 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
+
 ![image](https://user-images.githubusercontent.com/84757114/170696891-5d167767-10d1-45fd-b53b-f8c0559c741a.png)
 
 ![image](https://user-images.githubusercontent.com/84757114/170696953-26290882-f080-4675-8ae5-2d1ff591fbab.png)
-
-![image](https://user-images.githubusercontent.com/84757114/170696980-62f5e9aa-8a27-4938-9c4b-767c4c34f3fb.png)
 
 16. Determinar la corriente en cada caso:
 
@@ -116,64 +115,76 @@ VOLTAJE (V)  SOBRE  RESISTENCIA (I)
 ***CAPITULO N° 4***
 
 2. Demuestre que hay 3.6 106 joules en un kilowatt-hora. 
-
-! [imagen] (https://user-images.githubusercontent.com/84757114/170534709-0d07d712-34bd-4c2e-bec0-d0f6f4564d18.png)
+![image](https://user-images.githubusercontent.com/84757114/170699377-8ae50563-e606-4049-bcec-1a4068caff95.png)
 
 4. Cuántos watts se utilizan cuando se consumen 350 J de energía en 5 h?
-! [imagen] (https://user-images.githubusercontent.com/84757114/170534805-ed5dd3e8-20ae-446e-ab9a-5e5f323ba13c.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170699625-cf7b2771-de0a-491e-9568-7f3b1a263ce6.png)
 
 6. Convierta las siguientes cantidades en kilovatios:
-! [imagen] (https://user-images.githubusercontent.com/84757114/170534950-630c9c8f-ca28-4da2-881b-2560b894f190.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170699714-43fd46b9-33a0-41ba-a2e4-97806436b288.png)
 
 8. Convierta las siguientes cantidades en miliwatts:
-! [imagen] (https://user-images.githubusercontent.com/84757114/170535044-b683a939-3673-48e5-95ec-0c1654637da5.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170699811-d80c59d2-1e82-42c5-9ad4-27d4490101f3.png)
 
 10. Convierta las siguientes cantidades en watts:
-! [imagen] (https://user-images.githubusercontent.com/84757114/170535134-9ce9725a-1822-4bda-b280-88b6518c16aa.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170699871-0629fad7-e8a1-4bea-bcf9-9954ee86188b.png)
 
 12. Si se permite que un foco de 300 W permanezca encendido continuamente durante 30 días, ¿cuántos kilowatts-hora de energía consume?
 
 R= convierta 300 watts-segudos en kwh  
 
 14. Convierta 5 106 watts-minutos en kWh. 
-! [imagen] (https://user-images.githubusercontent.com/84757114/170536505-3316891c-2184-402b-9344-328558b943c8.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170699972-e3a51772-6b8e-4ce3-b355-89ea8a03754d.png)
 
 16. ¿Durante cuántos segundos debe haber 5 A de corriente a través de un resistor de 47 Æ para consumir 25 J?
 
-! [imagen] (https://user-images.githubusercontent.com/84757114/170536582-82848f15-0d89-4409-b576-9af2e48c02ab.png)
+![image](https://user-images.githubusercontent.com/84757114/170700043-d79fdeed-bcfe-4cf5-b08b-3e7a48467ab5.png)
 
 18. Si un resistor tiene 5.5 V entre sus extremos y 3 mA a través de él, ¿cuál es la potencia?
-! [imagen] (https://user-images.githubusercontent.com/84757114/170536683-a426195d-71ea-4b51-9d1d-6daab8b324e2.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170700104-81e87935-1361-4381-a8e6-1b5bd3397aa8.png)
 
 20. ¿Cuál es la potencia cuando 500 mA de corriente recorren un resistor de 4.7 kΩ?
-! [imagen] (https://user-images.githubusercontent.com/84757114/170536787-20d720f0-de40-4a48-b2cd-af5ff50bd8ec.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170700165-b8980109-c942-4fe3-8088-550d4f3a91c5.png)
 
 22. Si entre los extremos de un resistor de 680 Æ existen 60 V, ¿cuál es la potencia?
-! [imagen] (https://user-images.githubusercontent.com/84757114/170536860-ddfacf32-d8b7-401f-97ac-8fa00b074a29.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170700217-2866d405-dfb0-409f-bcea-b5ed0901fcce.png)
 
 24. Si un resistor tiene que transportar 2 A de corriente y manejar 100 W de potencia, ¿de cuántos ohms debe ser? Suponga que el voltaje puede ser ajustado a cualquier valor requerido.
-! [imagen] (https://user-images.githubusercontent.com/84757114/170536972-b896ae09-8b18-47ca-b8a4-3204ca6b74b4.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170700261-00aa9450-137e-48a9-b12f-beacfd4f800b.png)
 
 26. Un resistor de 6.8 kÆ se quemó en un circuito. Usted debe reemplazarlo por otro con el mismo valor de resistencia. Si el resistor transporta 10 mA, ¿cuál deberá ser su clasificación de potencia? Suponga que dispone de resistores en todas las clasificaciones de potencia estándar.
 
-R= Por lo menos es de 12 watts, para permitir un margen de seguridad del 20%
+** R= Por lo menos es de 12 watts, para permitir un margen de seguridad del 20%
 
 28. En cada circuito de la figura 4-13, asigne la polaridad apropiada de la caída de voltaje entre los extremos del resistor.
-! [imagen] (https://user-images.githubusercontent.com/84757114/170537442-4f1de9d9-4a92-4257-83d9-6d34449e2e56.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170700360-c70a2d3f-19bc-40a5-8333-17dffbdbde89.png)
 
 30. Suponga que una batería D alcalina puede mantener un voltaje promedio de 1.25 V durante 90 horas en una carga de 10 Æ antes de volverse inutilizable. ¿Qué promedio de potencia se suministra a la carga durante la vida de la batería?
-! [imagen] (https://user-images.githubusercontent.com/84757114/170537503-54b0c670-c372-4586-8387-9ea44d136042.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170700416-7128e963-e262-483e-94fd-7a8e00fb4d78.png)
 
 32. Una batería puede proporcionar un promedio de 1.5 A de corriente durante 24 h. ¿Cuál es su capacidad en amperes-hora?
-! [imagen] (https://user-images.githubusercontent.com/84757114/170537589-c3966cd0-5569-4161-aaea-c8a574d6aae5.png)
+![image](https://user-images.githubusercontent.com/84757114/170700504-b9dc17a9-ac03-4d76-b6e9-00680f5a70ac.png)
 
 34. Si la capacidad de una batería es de 650 mAh, ¿cuánta corriente promedio suministrará durante 48 h?
-! [imagen] (https://user-images.githubusercontent.com/84757114/170537649-ca174901-c858-4223-988f-60dd3138dd20.png)
+![image](https://user-images.githubusercontent.com/84757114/170700574-4ac6869b-a137-4999-9dc4-7cc244dc6de2.png)
 
 36. Para operar al 85% de eficiencia, ¿cuánta potencia de salida debe producir una fuente si la potencia de entrada es de 5 W?
-! [imagen] (https://user-images.githubusercontent.com/84757114/170537724-52dbd0c3-74cb-46e9-9b10-05865db29340.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170700620-cc6350e3-33cf-468d-8200-c77e958a4ea4.png)
 
 **3.VIDEO**
+
 https://youtu.be/yBO0pC-FpOE
 
 **4.CONCLUSIONES**
