@@ -1,9 +1,9 @@
 # Tarea-2_informe
-**UNIVERSIDAD DE LAS FUERZAS ARMADAS**
+   **UNIVERSIDAD DE LAS FUERZAS ARMADAS**
 
-**DEPARTAMENTO DE ELECTRICA Y ELECTRÓNICA**
+  **DEPARTAMENTO DE ELECTRICA Y ELECTRÓNICA**
 
-**FUNDAMENTOS DE CIRCUITOS ELECTRICOS**
+   **FUNDAMENTOS DE CIRCUITOS ELECTRICOS**
 
 
 **Nombres:** Jefferson Chicaiza
@@ -51,7 +51,7 @@ RESISTENCIA (R)
 VOLTAJE (V)  SOBRE  RESISTENCIA (I)
 
 6. En cierto circuito, I  5 mA cuando V  1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
-! [imagen] (https://user-images.githubusercontent.com/84757114/170525297-365af3f8-d51a-41b6-af80-0759ba44077f.png)
+
 
 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
 ! [imagen] (https://user-images.githubusercontent.com/84757114/170525515-798e12f2-8743-4f93-a7c2-80533f107003.png)
