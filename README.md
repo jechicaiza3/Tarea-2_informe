@@ -52,62 +52,65 @@ VOLTAJE (V)  SOBRE  RESISTENCIA (I)
 
 6. En cierto circuito, I  5 mA cuando V  1 V. Determine la corriente para cada uno de los voltajes siguientes en el mismo circuito.
 
+![image](https://user-images.githubusercontent.com/84757114/170696540-baa300f6-c788-4f3d-9df0-96778e2872b0.png)
 
 8. Trace la relación corriente-voltaje para un resistor de cuatro bandas con código de colores gris, rojo, rojo, oro.
-! [imagen] (https://user-images.githubusercontent.com/84757114/170525515-798e12f2-8743-4f93-a7c2-80533f107003.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170696584-0139cf35-91e7-4a72-b5ab-4dad31817474.png)
 
 10. ¿Cuál de los circuitos mostrados en la figura 3-20 tiene más corriente? ¿Cuál tiene menos corriente?
 
-! [imagen] (https://user-images.githubusercontent.com/84757114/170527481-20334d02-01c0-4713-a666-0430bdeddd53.png)
-Resistencia 1058 +  (-2%)
+![image](https://user-images.githubusercontent.com/84757114/170697932-0a8739c1-1e5f-4f26-a8be-59810aa3134c.png)
 
 12. Si se desea incrementar la cantidad de corriente en un resistor de 100 mA a 150 mA cambiando la fuente de 20 V, ¿en cuántos volts deberá cambiar la fuente? ¿A qué nuevo valor deberá ser ajustada?
 
-! [imagen] (https://user-images.githubusercontent.com/84757114/170527889-cab91bd1-623a-49db-8859-759ae5af1da6.png)
+![image](https://user-images.githubusercontent.com/84757114/170696827-8db165b3-3d21-4e6b-be71-a1da900b1070.png)
 
 14. ¿La gráfica del problema 13 indica una relación lineal entre voltaje y corriente? Explique su respuesta.
-! [imagen] (https://user-images.githubusercontent.com/84757114/170528439-aa3a0379-b565-4cb6-a15d-83cfd595df7d.png)
+![image](https://user-images.githubusercontent.com/84757114/170696891-5d167767-10d1-45fd-b53b-f8c0559c741a.png)
 
-! [imagen] (https://user-images.githubusercontent.com/84757114/170528502-5e13615a-af72-4122-a9c9-cd166a4b1553.png)
+![image](https://user-images.githubusercontent.com/84757114/170696953-26290882-f080-4675-8ae5-2d1ff591fbab.png)
 
-! [imagen] (https://user-images.githubusercontent.com/84757114/170528846-e7f2a412-e1b0-41ad-9fc8-768db21616d4.png)
+![image](https://user-images.githubusercontent.com/84757114/170696980-62f5e9aa-8a27-4938-9c4b-767c4c34f3fb.png)
 
 16. Determinar la corriente en cada caso:
-! [imagen] (https://user-images.githubusercontent.com/84757114/170528965-6957f875-d2ee-4483-9153-195de1435234.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170697049-9dcb239c-fb5a-4751-8873-12eb98cdba8e.png)
 
 18. Cierto resistor tiene el siguiente código de colores: naranja, naranja, rojo, oro. Determine las corrientes máxima y mínima esperadas cuando se conecta una fuente de 12 V a través del resistor.
 
-! [imagen] (https://user-images.githubusercontent.com/84757114/170529618-d043cfe4-513b-4c88-b7a9-fbde64b58719.png)
+![image](https://user-images.githubusercontent.com/84757114/170697084-b4d804e1-da29-4d3a-913f-fc4abdcafd5f.png)
 
 20. Se conecta un resistor de 5 bandas a través de una fuente de 12 V. Determine la corriente si el código de colores es naranja, violeta, amarillo, oro, café.
 
-! [imagen] (https://user-images.githubusercontent.com/84757114/170529700-d1a64e04-3104-4e4a-a091-57147af03c79.png)
+![image](https://user-images.githubusercontent.com/84757114/170697173-0aa9d172-6a56-475d-9af0-2f7ff4d7c711.png)
 
 22. El potenciómetro conectado a un reóstato en la figura 3-21 se utiliza para controlar la corriente suministrada a un elemento calentador. Cuando el reóstato se ajusta a un valor de 8 o menos, el elemento calentador puede quemarse. ¿Cuál es el valor nominal del fusible requerido para proteger el circuito si el voltaje a través del elemento calentador en el punto de corriente máxima es de 100 V, y el voltaje a través del reóstato es la diferencia entre el voltaje del elemento calentador y el voltaje de la fuente? 
 
-! [imagen] (https://user-images.githubusercontent.com/84757114/170530042-c48afffd-e570-408e-9186-fcfd612d28ad.png)
+![image](https://user-images.githubusercontent.com/84757114/170697253-bf5ff96e-8abc-42d2-b4b9-966d2857a3a4.png)
 
 24. Calcule el voltaje para cada valor de I y R:
-! [imagen] (https://user-images.githubusercontent.com/84757114/170530147-4bd05ec5-05c0-4af8-8e75-f134fd16dfd2.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170697359-2903ceb8-e27f-4d92-a9bc-36ba6ec1eca4.png)
 
 26. Asigne un valor de voltaje a cada una de las fuentes que aparecen en los circuitos de la figura 3-22 para obtener las cantidades de corriente indicadas.
-! [imagen] (https://user-images.githubusercontent.com/84757114/170530267-0d6f455c-b198-4317-a312-331f27c97b45.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170697457-1acdb3c5-1fa6-4ddd-a021-4f481507bb4a.png)
 
 30. Se aplican seis volts a través de un resistor. Se mide una corriente de 2 mA. ¿Cuál es el valor del resistor?
 
-! [imagen] (https://user-images.githubusercontent.com/84757114/170530490-f8e27dce-74ca-47b2-a802-ac498d4b4ac3.png)
-
-https://youtu.be/IPoAmvHp2vo
 32. Se desconoce la resistencia de cierto dispositivo eléctrico. Usted dispone de una batería de 12 V y un amperímetro. ¿Cómo determinaría el valor de la resistencia desconocida? Trace las conexiones de circuito necesarias.
 
-! [imagen] (https://user-images.githubusercontent.com/84757114/170532910-d4dffe2f-bc2b-49fb-a79b-1f51709d0de4.png)
+![image](https://user-images.githubusercontent.com/84757114/170697529-d3a3dc20-adb7-4312-8f25-ad965ec826ed.png)
 
 34. Un circuito atenuador de luz de 120 V es controlado por un reóstato y está protegido contra corriente excesiva mediante un fusible de 2 A. ¿A qué valor de resistencia mínima puede ser ajustado el reóstato sin que se funda el fusible? Suponga una resistencia de la lámpara de 15. 
-! [imagen] (https://user-images.githubusercontent.com/84757114/170530603-226331bd-c02e-4a2d-8509-cd409f5e17ed.png)
+
+![image](https://user-images.githubusercontent.com/84757114/170698316-e52d6c12-623f-4efe-9aa2-03f82380a9be.png)
 
 36. En el circuito de luces de la figura 3-25, identifique el foco fundido con base en la serie de lecturas de ohmmetro mostradas.
 
-! [imagen] (https://user-images.githubusercontent.com/84757114/170530688-89b73016-2934-4bfb-a762-2e88b164d29d.png)
+![image](https://user-images.githubusercontent.com/84757114/170697590-a34d3667-2290-47c0-90a7-5494e4e7ec66.png)
+
 
 
 ***CAPITULO N° 4***
